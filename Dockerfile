@@ -1,2 +1,2 @@
-FROM quay.io/redhat-user-workloads/cqi-tenant/nuding-components/nudging-parent-app@sha256:70c4370a231929613eb6b6dc3b6a4ed4465eb73c25fc5b1da4729395f2097659
+FROM quay.io/redhat-user-workloads/cqi-tenant/nuding-components/nudging-parent-app@sha256:f7ee7bfc310ed7d00e563fadbb9a2701856ee7585265778d9d1a324c526f89bd
 CMD ["echo", "nudging child app"]
